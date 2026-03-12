@@ -167,11 +167,11 @@ export default function Home() {
               Interested in our services or want to explore a partnership? Reach out.
             </p>
             <a
-              href="mailto:sgill@agenticholdco.com"
+              href="mailto:hello@agenticholdco.com"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-lg text-sm font-medium text-white transition-all hover:opacity-90"
               style={{ background: "var(--accent)" }}
             >
-              sgill@agenticholdco.com
+              hello@agenticholdco.com
             </a>
           </div>
         </div>
